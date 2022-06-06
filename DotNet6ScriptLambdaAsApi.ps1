@@ -2,7 +2,7 @@
 
 cd "$filePath"
 
-[string]$projectName = Read-Host "Please enter the name of the project, for example AO.LastMile.Test"
+[string]$projectName = Read-Host "Please enter the name of the project, for example TestRepo"
 
 
 
